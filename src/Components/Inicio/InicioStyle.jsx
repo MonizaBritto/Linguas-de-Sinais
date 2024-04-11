@@ -20,7 +20,7 @@ export const Banner = styled.div`
     @media(min-width: 401px) and (max-width: 871px){
        font-size: 0.6em;
        background-size: contain;
-       height: 32vh;g
+       height: 32vh;
     }
 
 `
