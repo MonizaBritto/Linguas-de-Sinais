@@ -11,4 +11,8 @@ export const Main = styled.main `
 export const A = styled.a`
     font-size: 0.8em;
     padding: 1rem;
+
+    @media(min-width: 320px) and (max-width: 780px){
+    font-size: 0.5em;
+    }
 `
