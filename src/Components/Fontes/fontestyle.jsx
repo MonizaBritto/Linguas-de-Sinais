@@ -1,9 +1,10 @@
 import styled from "styled-components"
 
 export const Main = styled.main `
+    background-color: #e5fcff;
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 100%;
     height: 80vh;
     justify-content: center;
 `

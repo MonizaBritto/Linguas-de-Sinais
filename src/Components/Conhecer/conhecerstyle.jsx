@@ -1,6 +1,7 @@
 import styled from "styled-components"
 
 export const Main = styled.main`
+    background-color: #e5fcff;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;

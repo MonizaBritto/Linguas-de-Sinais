@@ -25,6 +25,7 @@ export const Banner = styled.div`
 
 `
 export const Info= styled.section`
+   background-color: #e5fcff;
     display: flex;
     justify-content:space-around;
     padding: 3rem;
