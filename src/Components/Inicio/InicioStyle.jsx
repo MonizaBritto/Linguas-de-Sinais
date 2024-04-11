@@ -14,13 +14,13 @@ export const Banner = styled.div`
     @media(min-width: 320px) and (max-width: 400px){
        font-size: 0.6em;
        background-size: contain;
-       height: 23vh;
+       height: 24vh;
     }
 
     @media(min-width: 401px) and (max-width: 871px){
        font-size: 0.6em;
        background-size: contain;
-       height: 32vh;
+       height: 32vh;g
     }
 
 `
